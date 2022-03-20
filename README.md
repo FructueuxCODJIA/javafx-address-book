@@ -4,7 +4,8 @@
 
 This was completed for Assignment 2 during my COMP-2130 - Application Development Using Java at George Brown College. This application uses JavaFX to create a simple contact manager. This application was completed prior to my Data Structures & Algorithms course, so there are no algorithms within the code.
 
-### [YouTube Video](https://www.youtube.com/watch?v=zeSP_BPvaAw)
+### [Personal Website Post](https://bit.ly/3wmbPqY)
+### [YouTube Video](https://bit.ly/3u4Ijn2)
 
 ## Screenshots
 
